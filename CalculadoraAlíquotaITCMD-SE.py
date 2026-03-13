@@ -191,6 +191,7 @@ def calcular_itcmd():
 
     print("\nOBS: Atente-se aos casos de isenção e imunidade. Tais situações")
     print("não foram consideradas para os fins da resposta deste programa.")
+    print("considerando as atualizações legislativas até o dia 13 de março de 2026")
 
 if __name__ == "__main__":
     calcular_itcmd()
