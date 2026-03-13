@@ -7,8 +7,8 @@ This repository contains extremely simple TUI ITCMD-SE calculator implementation
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/ArturDeLima/Very-Simple-TUI-ITCMD-SE-Calculator-.git](https://github.com/ArturDeLima/Very-Simple-TUI-ITCMD-SE-Calculator-.git)
-
+   git clone https://github.com/ArturDeLima/Very-Simple-TUI-ITCMD-SE-Calculator.git
+   
 ou copie o único arquivo de código no diretório que for utilizar (salvando com o mesmo nome: "CalculadoraAlíquotaITCMD-SE.py")
 
 
