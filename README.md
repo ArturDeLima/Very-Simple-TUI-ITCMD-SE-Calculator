@@ -16,5 +16,4 @@ ou copie o único arquivo de código no diretório que for utilizar (salvando co
    ```bash
     python CalculadoraAlíquotaITCMD-SE.py 
 
-
 Autor: [Artur Lima]
