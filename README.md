@@ -1,6 +1,6 @@
 # Very-Simple-TUI-ITCMD-SE-Calculator
 
-This repository contains extremely simple TUI ITCMD-SE calculator implementation in python with no libraries, it also explains the legal basis for everything, it was made very quickly just as a simple and quick "hour project", it also does not consider tax exemptions and immunities, as since these are quite subjective and weren't in the scope of the proj.
+This repository contains extremely simple TUI ITCMD-SE calculator implementation in python with no libraries, it also explains the legal basis for everything, it was made very quickly just as a simple and quick "hour project", it also does not consider tax exemptions and immunities, as these are quite subjective and weren't in the scope of the proj.
 
 
 ## Como Executar
